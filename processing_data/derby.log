@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Apr 26 16:27:15 FJT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0163-0034-9104-000006c2d4d0 
+on database directory /home/rh/Desktop/Detecting-Malicious-URL-Machine-Learning/processing_data/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@39f5d0fe 
+Loaded from file:/usr/local/spark-2.3.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_162-8u162-b12-1-b12
+user.dir=/home/rh/Desktop/Detecting-Malicious-URL-Machine-Learning/processing_data
+os.name=Linux
+os.arch=amd64
+os.version=4.14.0-kali3-amd64
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
