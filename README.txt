@@ -25,7 +25,6 @@ We have three options of datasets that we use in our project. Either one of can 
 	JWSPAMSPY: These are spam URLs
 	http://www.joewein.de/sw/blacklist.htm
 
-	The processed data from the above can be obtained from: 
 
 
 3. Kaggle: These are datasets obtained from Kaggle. 
@@ -33,5 +32,7 @@ We have three options of datasets that we use in our project. Either one of can 
 
 
 
+IMPORTANT - The above links are the orginal places where we got our datasets. However, we have put all the above datasets
+in one location to make usage easy. All the above mentioned ready-to-run, cleaned datasets can be found in:
 
-Spam URL - 
+Link: https://github.com/rlilojr/Detecting-Malicious-URL-Machine-Learning/tree/master/processed_data
